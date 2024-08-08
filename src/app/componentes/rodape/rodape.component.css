@@ -39,5 +39,6 @@ footer small {
     display: flex;
     flex-direction: column-reverse;
     gap: 1rem;
+    align-items: center;
   }
 }
