@@ -1,9 +1,8 @@
 # Minhas anotações
-
 ## Diretivas de componentes:
   usado com um modelo. Esse tipo de diretiva é a mais comum.
 
-Ex: <app-listarPensamentos>.
+Ex: "<app-listarPensamentos>".
 
 ## Diretivas estruturais: 
   altera o layout do DOM adicionando e removendo elementos DOM.
