@@ -2,9 +2,9 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "glad u came",
-      "autoria": "the wanted",
-      "modelo": "modelo1"
+      "conteudo": "branded by all of your failures, a failure that u cant shake",
+      "autoria": "poppyyyy",
+      "modelo": "modelo2"
     },
     {
       "id": 2,
@@ -17,6 +17,18 @@
       "conteudo": "no love lost",
       "autoria": "forget ur name",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "burdened by our connection... i long.. for separation",
+      "autoria": "klmf",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "u wont go before u r supposed to",
+      "autoria": "ok?",
+      "modelo": "modelo1",
+      "id": 5
     }
   ]
 }
