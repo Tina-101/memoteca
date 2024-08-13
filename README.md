@@ -4,7 +4,7 @@ Projeto desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) v
 
 ## Visualize o projeto através do vercel:
 
-link:
+link: [memoteca-projeto-final](https://memoteca-self.vercel.app/listarPensamento)
 
 ## Como executar o projeto:
 
