@@ -4,7 +4,7 @@
 
 <b>State</b> is the data that determines a component’s behaviour and rendering.\
 <b>Stateful</b> components manage their own state.\
-<b>Stateless</b> components rely on inputs for data and outputs for events.\
+<b>Stateless</b> components rely on inputs for data and outputs for events.
 
 ## Diretivas e seus tipos:
 directives, basically, change the behavior of the HTML DOM.
