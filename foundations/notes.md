@@ -1,21 +1,31 @@
 # Minhas anotações
-## Diretivas de componentes:
+
+## States:
+
+<b>State</b> is the data that determines a component’s behaviour and rendering.
+<b>Stateful</b> components manage their own state.
+<b>Stateless</b> components rely on inputs for data and outputs for events.
+
+## Diretivas e seus tipos:
+directives, basically, change the behavior of the HTML DOM.
+
+### Diretivas de componentes:
   usado com um modelo. Esse tipo de diretiva é a mais comum.
 ```html
 Ex: "<app-listarPensamentos>".
 ```
 
-## Diretivas estruturais: 
+### Diretivas estruturais: 
   altera o layout do DOM adicionando e removendo elementos DOM.
 
 Ex: NgIf, NgFor. NgSwitch.
 
-## Diretivas de atributos:
+### Diretivas de atributos:
   altera a aparência ou o comportamento de um elemento, componente ou outra diretiva.
 
 Ex: NgClass, NgStyle.
 
-## Sobre a classe Validator:
+### Sobre a classe Validator:
  lista com os métodos mais usados e suas funcionalidades
 
 ```javascript
@@ -52,3 +62,5 @@ Validador de valores nulos.
 Validators.composeAsync()
 ```
 Compõe vários validadores assíncronos em uma única função que retorna a união dos objetos de erro individuais para o controle fornecido.
+
+
