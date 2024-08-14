@@ -24,7 +24,7 @@ Validators.min()
 Validador que exige que o valor do controle seja maior ou igual ao número fornecido.
 
 ```javascript
-### Validators.max()
+Validators.max()
 ```
 Validador que exige que o valor do controle seja menor ou igual ao número fornecido.
 
