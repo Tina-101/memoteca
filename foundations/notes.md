@@ -6,6 +6,16 @@
 <b>Stateful</b> components manage their own state.\
 <b>Stateless</b> components rely on inputs for data and outputs for events.
 
+## Data Binding:
+
+<b>Interpolation</b>: Data flows from controller to the View and mixes with HTML tags. This allows one to display the value of a component’s property in the template by wrapping it in double curly braces ```{{ property }}```.
+
+<b>Property binding</b>: Data flows from the controller to the View. This allows to bind a component’s property to an element’s property by using square brackets ```[property]```.
+
+<b>Event binding</b>: When we send Event from the View to the Component. This allows to bind a component’s method to an element’s event by using round brackets ```(click)="save()"```.
+
+<b>Two-way binding</b>: Bidirectional. Data flows from Component to the View and sends Event from View to the Component. This allows to bind a component’s property to an element’s property and vice versa using the ngModel directive. ```<input [(ngModel)]="name"/>```
+
 ## Diretivas e seus tipos:
 directives, basically, change the behavior of the HTML DOM.
 
