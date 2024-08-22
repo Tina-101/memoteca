@@ -73,4 +73,5 @@ Validators.composeAsync()
 ```
 Compõe vários validadores assíncronos em uma única função que retorna a união dos objetos de erro individuais para o controle fornecido.
 
+Observables are lazy Push collections of multiple values.
 
